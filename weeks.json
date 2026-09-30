@@ -1,0 +1,192 @@
+{
+ "w05": {
+  "others": [
+   "Virginia",
+   "Houston",
+   "Auburn",
+   "Louisville",
+   "Kentucky"
+  ],
+  "ranking": [
+   "Texas",
+   "Notre Dame",
+   "Miami",
+   "Florida",
+   "Georgia",
+   "Alabama",
+   "Ohio State",
+   "Mississippi State",
+   "Ole Miss",
+   "Indiana",
+   "Utah",
+   "Iowa",
+   "Texas Tech",
+   "LSU",
+   "UCLA",
+   "Virginia Tech",
+   "Duke",
+   "Pittsburgh",
+   "BYU",
+   "Oklahoma State",
+   "Wake Forest",
+   "Tennessee",
+   "Nebraska",
+   "West Virginia",
+   "Oregon"
+  ],
+  "records": {
+   "Alabama": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 3,
+    "w": 4
+   },
+   "BYU": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 1,
+    "w": 3
+   },
+   "Duke": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Florida": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Georgia": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Indiana": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 1,
+    "w": 4
+   },
+   "Iowa": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "LSU": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 2,
+    "w": 3
+   },
+   "Miami": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Mississippi State": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 3,
+    "w": 4
+   },
+   "Nebraska": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 1,
+    "w": 4
+   },
+   "Notre Dame": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 3,
+    "w": 4
+   },
+   "Ohio State": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 1,
+    "w": 3
+   },
+   "Oklahoma State": {
+    "l": 1,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 3
+   },
+   "Ole Miss": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 2,
+    "w": 3
+   },
+   "Oregon": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 1,
+    "w": 3
+   },
+   "Pittsburgh": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Tennessee": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 1,
+    "w": 3
+   },
+   "Texas": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Texas Tech": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 1,
+    "w": 4
+   },
+   "UCLA": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 3,
+    "w": 4
+   },
+   "Utah": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Virginia Tech": {
+    "l": 0,
+    "p4l": 0,
+    "p4w": 2,
+    "w": 4
+   },
+   "Wake Forest": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 2,
+    "w": 3
+   },
+   "West Virginia": {
+    "l": 1,
+    "p4l": 1,
+    "p4w": 1,
+    "w": 3
+   }
+  },
+  "savedAt": "2026-09-30T21:30:34.286Z",
+  "week": 5
+ }
+}
