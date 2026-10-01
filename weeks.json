@@ -9,10 +9,10 @@
    "Georgia",
    "Alabama",
    "Ohio State",
-   "Mississippi State",
    "Ole Miss",
-   "Indiana",
+   "Mississippi State",
    "Utah",
+   "Indiana",
    "Iowa",
    "Texas Tech",
    "LSU",
@@ -38,7 +38,7 @@
    "SMU",
    "Northwestern"
   ],
-  "savedAt": "2026-10-01T18:08:31.043Z",
+  "savedAt": "2026-10-01T20:00:36.592Z",
   "records": {
    "Texas": {
     "w": 4,
@@ -82,28 +82,28 @@
     "p4w": 1,
     "p4l": 1
    },
-   "Mississippi State": {
-    "w": 4,
-    "l": 0,
-    "p4w": 3,
-    "p4l": 0
-   },
    "Ole Miss": {
     "w": 3,
     "l": 1,
     "p4w": 2,
     "p4l": 1
    },
-   "Indiana": {
+   "Mississippi State": {
     "w": 4,
     "l": 0,
-    "p4w": 1,
+    "p4w": 3,
     "p4l": 0
    },
    "Utah": {
     "w": 4,
     "l": 0,
     "p4w": 2,
+    "p4l": 0
+   },
+   "Indiana": {
+    "w": 4,
+    "l": 0,
+    "p4w": 1,
     "p4l": 0
    },
    "Iowa": {
