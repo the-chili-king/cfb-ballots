@@ -1,12 +1,6 @@
 {
  "w05": {
-  "others": [
-   "Virginia",
-   "Houston",
-   "Auburn",
-   "Louisville",
-   "Kentucky"
-  ],
+  "week": 5,
   "ranking": [
    "Texas",
    "Notre Dame",
@@ -34,159 +28,165 @@
    "West Virginia",
    "Oregon"
   ],
+  "others": [
+   "Virginia",
+   "Houston",
+   "Auburn",
+   "Louisville",
+   "Kentucky"
+  ],
+  "savedAt": "2026-10-01T00:09:58.368Z",
   "records": {
-   "Alabama": {
+   "Texas": {
+    "w": 4,
     "l": 0,
-    "p4l": 0,
-    "p4w": 3,
-    "w": 4
-   },
-   "BYU": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 1,
-    "w": 3
-   },
-   "Duke": {
-    "l": 0,
-    "p4l": 0,
     "p4w": 2,
-    "w": 4
-   },
-   "Florida": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "Georgia": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "Indiana": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 1,
-    "w": 4
-   },
-   "Iowa": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "LSU": {
-    "l": 1,
-    "p4l": 1,
-    "p4w": 2,
-    "w": 3
-   },
-   "Miami": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "Mississippi State": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 3,
-    "w": 4
-   },
-   "Nebraska": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 1,
-    "w": 4
+    "p4l": 0
    },
    "Notre Dame": {
+    "w": 4,
     "l": 0,
-    "p4l": 0,
     "p4w": 3,
-    "w": 4
+    "p4l": 0
+   },
+   "Miami": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Florida": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Georgia": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Alabama": {
+    "w": 4,
+    "l": 0,
+    "p4w": 3,
+    "p4l": 0
    },
    "Ohio State": {
+    "w": 3,
     "l": 1,
-    "p4l": 1,
     "p4w": 1,
-    "w": 3
+    "p4l": 1
    },
-   "Oklahoma State": {
-    "l": 1,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 3
+   "Mississippi State": {
+    "w": 4,
+    "l": 0,
+    "p4w": 3,
+    "p4l": 0
    },
    "Ole Miss": {
+    "w": 3,
     "l": 1,
-    "p4l": 1,
     "p4w": 2,
-    "w": 3
+    "p4l": 1
    },
-   "Oregon": {
-    "l": 1,
-    "p4l": 1,
+   "Indiana": {
+    "w": 4,
+    "l": 0,
     "p4w": 1,
-    "w": 3
-   },
-   "Pittsburgh": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "Tennessee": {
-    "l": 1,
-    "p4l": 1,
-    "p4w": 1,
-    "w": 3
-   },
-   "Texas": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 2,
-    "w": 4
-   },
-   "Texas Tech": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 1,
-    "w": 4
-   },
-   "UCLA": {
-    "l": 0,
-    "p4l": 0,
-    "p4w": 3,
-    "w": 4
+    "p4l": 0
    },
    "Utah": {
+    "w": 4,
     "l": 0,
-    "p4l": 0,
     "p4w": 2,
-    "w": 4
+    "p4l": 0
+   },
+   "Iowa": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Texas Tech": {
+    "w": 4,
+    "l": 0,
+    "p4w": 1,
+    "p4l": 0
+   },
+   "LSU": {
+    "w": 3,
+    "l": 1,
+    "p4w": 2,
+    "p4l": 1
+   },
+   "UCLA": {
+    "w": 4,
+    "l": 0,
+    "p4w": 3,
+    "p4l": 0
    },
    "Virginia Tech": {
+    "w": 4,
     "l": 0,
-    "p4l": 0,
     "p4w": 2,
-    "w": 4
+    "p4l": 0
+   },
+   "Duke": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Pittsburgh": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "BYU": {
+    "w": 3,
+    "l": 0,
+    "p4w": 1,
+    "p4l": 0
+   },
+   "Oklahoma State": {
+    "w": 3,
+    "l": 1,
+    "p4w": 2,
+    "p4l": 0
    },
    "Wake Forest": {
+    "w": 3,
     "l": 1,
-    "p4l": 1,
     "p4w": 2,
-    "w": 3
+    "p4l": 1
+   },
+   "Tennessee": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Nebraska": {
+    "w": 4,
+    "l": 0,
+    "p4w": 1,
+    "p4l": 0
    },
    "West Virginia": {
+    "w": 3,
     "l": 1,
-    "p4l": 1,
     "p4w": 1,
-    "w": 3
+    "p4l": 1
+   },
+   "Oregon": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
    }
-  },
-  "savedAt": "2026-09-30T21:30:34.286Z",
-  "week": 5
+  }
  }
 }
