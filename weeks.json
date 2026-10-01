@@ -26,16 +26,19 @@
    "Tennessee",
    "Nebraska",
    "West Virginia",
-   "Oregon"
-  ],
-  "others": [
-   "Virginia",
-   "Houston",
+   "Oregon",
+   "Kentucky",
+   "Missouri",
    "Auburn",
+   "Houston",
+   "Wisconsin",
+   "Minnesota",
    "Louisville",
-   "Kentucky"
+   "Cincinnati",
+   "Virginia",
+   "SMU"
   ],
-  "savedAt": "2026-10-01T00:13:04.704Z",
+  "savedAt": "2026-10-01T17:58:23.861Z",
   "records": {
    "Texas": {
     "w": 4,
@@ -182,6 +185,66 @@
     "p4l": 1
    },
    "Oregon": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Kentucky": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Missouri": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Auburn": {
+    "w": 3,
+    "l": 1,
+    "p4w": 2,
+    "p4l": 1
+   },
+   "Houston": {
+    "w": 3,
+    "l": 1,
+    "p4w": 0,
+    "p4l": 1
+   },
+   "Wisconsin": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Minnesota": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "Louisville": {
+    "w": 2,
+    "l": 2,
+    "p4w": 1,
+    "p4l": 2
+   },
+   "Cincinnati": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "Virginia": {
+    "w": 3,
+    "l": 1,
+    "p4w": 1,
+    "p4l": 1
+   },
+   "SMU": {
     "w": 3,
     "l": 1,
     "p4w": 1,
