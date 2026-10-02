@@ -11,12 +11,12 @@
    "Ohio State",
    "Ole Miss",
    "Utah",
-   "Mississippi State",
    "Indiana",
-   "Iowa",
+   "Mississippi State",
    "Texas Tech",
-   "LSU",
    "UCLA",
+   "Iowa",
+   "LSU",
    "Virginia Tech",
    "Duke",
    "Pittsburgh",
@@ -38,7 +38,7 @@
    "SMU",
    "Northwestern"
   ],
-  "savedAt": "2026-10-01T20:01:33.503Z",
+  "savedAt": "2026-10-02T02:41:18.080Z",
   "records": {
    "Texas": {
     "w": 4,
@@ -94,22 +94,16 @@
     "p4w": 2,
     "p4l": 0
    },
-   "Mississippi State": {
-    "w": 4,
-    "l": 0,
-    "p4w": 3,
-    "p4l": 0
-   },
    "Indiana": {
     "w": 4,
     "l": 0,
     "p4w": 1,
     "p4l": 0
    },
-   "Iowa": {
+   "Mississippi State": {
     "w": 4,
     "l": 0,
-    "p4w": 2,
+    "p4w": 3,
     "p4l": 0
    },
    "Texas Tech": {
@@ -118,17 +112,23 @@
     "p4w": 1,
     "p4l": 0
    },
-   "LSU": {
-    "w": 3,
-    "l": 1,
-    "p4w": 2,
-    "p4l": 1
-   },
    "UCLA": {
     "w": 4,
     "l": 0,
     "p4w": 3,
     "p4l": 0
+   },
+   "Iowa": {
+    "w": 4,
+    "l": 0,
+    "p4w": 2,
+    "p4l": 0
+   },
+   "LSU": {
+    "w": 3,
+    "l": 1,
+    "p4w": 2,
+    "p4l": 1
    },
    "Virginia Tech": {
     "w": 4,
